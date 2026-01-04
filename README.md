@@ -24,4 +24,4 @@ This repository was originally created to implement a small script I programmed 
 
 Read the License of the repository [here](other/LICENSE)
 
-###### Created by Pablo Corbalán [@HomeomorphicHooligan](https://github.com/HomeomorphicHooligan)
+###### Created by Pablo Corbalán [@LagrangianLad](https://github.com/LagrangianLad)
