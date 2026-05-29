@@ -1,27 +1,75 @@
-<p align="center">
-  <img src="wallpapers/hd/breeze.png" alt="...">
-</p>
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# arch-minimal-wallpapers
 
-# Arch Linux minimal wallpapers
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/arch-minimal-wallpapers)
 
-#### Check out the wallpapers [here](other/wallpapers.md)
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-This repsitory contains a **collection of minimal Arch wallpapers**, all the themes are made by two colors and look like the above template. Sadly GitHub does not support files over fhd quality. In case you are searching for 2k, 4k or 8k do not doubt in contacting me.
+## Architecture
 
-#### If you want to contribute to the repository, check [this file](other/contributing.md)
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-The themes have been created following the pallete of some famous color schemes, they have been created using two colors:
+## Install
 
-- The most important color: for the background of the wallpaper.
-- The contrast / focus color of the pallete: for the Arch Linux logo.
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-### Index:
-- [hd (1080x720)](wallpapers/hd/)
-- [full hd (1920x1080)](wallpapers/full-hd)
+```bash
+git clone https://github.com/Interested-Deving-1896/arch-minimal-wallpapers.git
+cd arch-minimal-wallpapers
+```
 
---- 
-This repository was originally created to implement a small script I programmed for changing the theme of the my terminal, my window manager ([qtile](https://qtile.org)) and my wallpaper. You can check my dotfiles [here](https://github.com/pablocorbalann/dotfiles)
+## Usage
 
-Read the License of the repository [here](other/LICENSE)
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-###### Created by Pablo Corbalán [@LagrangianLad](https://github.com/LagrangianLad)
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/arch-minimal-wallpapers`](https://github.com/Interested-Deving-1896/arch-minimal-wallpapers) and mirrored through:
+
+```
+Interested-Deving-1896/arch-minimal-wallpapers  ──►  OpenOS-Project-OSP/arch-minimal-wallpapers  ──►  OpenOS-Project-Ecosystem-OOC/arch-minimal-wallpapers
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
